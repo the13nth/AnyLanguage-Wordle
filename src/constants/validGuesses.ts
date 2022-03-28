@@ -1,6 +1,6 @@
 import { CONFIG } from './config'
 
-export const VALID_GUESSES = [
+export const VALIDGUESSES = [
   'aahed',
   'aalii',
   'aargh',
