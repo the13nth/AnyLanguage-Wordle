@@ -23,7 +23,7 @@ export const AboutModal = ({ isOpen, handleClose }: Props) => {
           </a>{' '}
         </Trans>
         <Trans i18nKey="aboutCodeSentence">
-          Check ou
+          Check out
           <a
             href="https://github.com/hannahcode/wordle"
             className="underline font-bold"
