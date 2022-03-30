@@ -2,8 +2,8 @@ export const CONFIG = {
   tries: 6, // This changes how many tries you get to finish the wordle
   language: 'Kinyarwanda', // This changes the display name for your language
   wordLength: 5, // This sets how long each word is based on how many characters (as defined in orthography.ts) are in each word
-  author: 'the13nth', // Put your name here so people know who made this Wordle!
-  authorWebsite: '', // Put a link to your website or social media here
+  author: 'Rwbts13', // Put your name here so people know who made this Wordle!
+  authorWebsite: 'https://kibelinka.herokuapp.com/', // Put a link to your website or social media here
   wordListSource: '', // Describe the source material for your words here
   wordListSourceLink: '', // Put a link to the source material for your words here
   //

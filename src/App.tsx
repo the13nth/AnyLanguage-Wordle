@@ -135,14 +135,6 @@ const App: React.FC<WithTranslation> = ({ t, i18n }) => {
     }
   }
   let translateElement = <div></div>
-  if (CONFIG.availableLangs.length > 1) {
-    translateElement = (
-      <TranslateIcon
-        className="h-6 w-6 cursor-pointer"
-        onClick={() => setIsI18nModalOpen(true)}
-      />
-    )
-  }
 
   return (
     <div className="py-8 max-w-7xl mx-auto sm:px-6 lg:px-8">
