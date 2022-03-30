@@ -19,11 +19,11 @@ export const AboutModal = ({ isOpen, handleClose }: Props) => {
           This is an open source clone of the game Wordle adapted to
           {CONFIG.language} by
           <a href={CONFIG.authorWebsite} className="underline font-bold">
-            {CONFIG.author}
+            {CONFIG.author} 
           </a>{' '}
         </Trans>
         <Trans i18nKey="aboutCodeSentence">
-          Check out
+          Check ou
           <a
             href="https://github.com/hannahcode/wordle"
             className="underline font-bold"
