@@ -1,6 +1,9 @@
 {
     "name": "any-language-wordle",
     "version": "0.1.0",
+    "engines": {
+        "node": "16.x"
+      },
     "homepage": "https://jonathanlittel.github.io/AnyLanguage-Wordle",
     "private": true,
     "dependencies": {
