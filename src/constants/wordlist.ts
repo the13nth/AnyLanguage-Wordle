@@ -2,6 +2,7 @@ import { CONFIG } from './config'
 
 export const WORDS = [
   'kwiga',
+  'igihe'
 ]
 
 if (CONFIG.normalization) {
